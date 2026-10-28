@@ -4,6 +4,6 @@ Proje Adı: Cyber Incident Manager
 Grup Üyeleri:
 
 1.
-Ad Soyad: [Şevval Nur Üreden]
-Öğrenci Numarası: [1250505060]
+Ad Soyad: Şevval Nur Üreden
+Öğrenci Numarası: 1250505060
 Projedeki Rolü: Proje Geliştiricisi
